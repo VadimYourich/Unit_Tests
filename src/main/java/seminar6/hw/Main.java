@@ -14,4 +14,5 @@ public class Main {
 
         controller.compareArray(averageArray1, averageArray2);
     }
+
 }
